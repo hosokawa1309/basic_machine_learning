@@ -16,7 +16,7 @@ ORgate : ORgateを学習
 
 XOR : XORを学習
 
-moist : mnistをニューラルネットワークにより学習（CNNじゃないよ）
+mnist : mnistをニューラルネットワークにより学習（CNNじゃないよ）
 
 
 
