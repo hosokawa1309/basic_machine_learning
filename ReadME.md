@@ -18,5 +18,11 @@ XOR : XORを学習
 
 mnist : mnistをニューラルネットワークにより学習（CNNじゃないよ）
 
+sklearn : sklearnを使って乱数値の分類を行なっているよ
 
+RNN : RNNを用いたsin波学習
+
+last : RNNを用いたsin波学習
+
+adding_program_letm : RNNでは学習できないが、LSTMでは学習できる長期間的な学習
 
